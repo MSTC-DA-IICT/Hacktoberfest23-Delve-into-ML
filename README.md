@@ -12,6 +12,17 @@ This project is a sincere attempt by MSTC, DA-IICT to encourage Open Source cont
 >We need an ML Engineer/Enthusiast :technologist: to help us solving the issues.
 
 <br><br>
+## Topics:
+### Gujarat's AQI Data
+- Perform Exploratory Data Analysis on the Dataset.
+- Preprocess the data.
+- Implementation of ML models based on the AQI data provided.
+
+### Airline Price Predictor
+- Scrap the data from the provided website.
+- Include all the necessary columns (details provided in the `issues` section) for flights from Mumbai to Toronto between 1st Nov 2023 to 31st July 24, atleast 20 entries per day.
+- Implementation of ML models based on the Scrapped Dataset.
+
 ### :hammer_and_wrench: SKILLS
 * Machine learning 
 * Data visualization
